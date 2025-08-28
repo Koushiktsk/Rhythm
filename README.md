@@ -9,7 +9,7 @@ An intelligent AI-powered music composition system that uses LangGraph to orches
 ## 🎥 Project Demo
 
 <!-- Replace the YouTube link with your actual video once you have it -->
-[![AI Music Composer Demo](https://www.awesomescreenshot.com/video/43634431?key=1ae9fe6d2e38072db930193db2c50f32)
+[![AI Music Composer Demo](https://www.awesomescreenshot.com/video/43634431?key=1ae9fe6d2e38072db930193db2c50f32)]
 
 *Click the image above to watch the project in action!*
 
@@ -141,10 +141,6 @@ We welcome contributions! Please feel free to:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [LangChain](https://www.langchain.com/) for the amazing AI orchestration framework
@@ -152,20 +148,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [music21](http://web.mit.edu/music21/) for music theory and computation tools
 - [Streamlit](https://streamlit.io/) for the beautiful web interface framework
 
-## 📞 Support
 
-If you have any questions or need help:
-
-1. Check the [Issues](https://github.com/your-username/ai-music-composer/issues) page
-2. Create a new issue if your problem isn't already documented
-3. Email: your-email@example.com
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/ai-music-composer&type=Date)](https://star-history.com/#your-username/ai-music-composer&Date)
-
----
-
-**Note**: Remember to replace placeholder links (YOUR_VIDEO_ID, your-username, your-email@example.com) with your actual project information once you have the video demo and GitHub repository set up.
-
-Would you like me to help you create a demonstration video script or any other part of the project documentation?
