@@ -7,9 +7,8 @@ An intelligent AI-powered music composition system that uses LangGraph to orches
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🎥 Project Demo
-
-<!-- Replace the YouTube link with your actual video once you have it -->
-[![AI Music Composer Demo](https://www.awesomescreenshot.com/video/43634431?key=1ae9fe6d2e38072db930193db2c50f32)]
+Watch the full demo video:
+https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-flat&logo=youtube&logoColor=white
 
 *Click the image above to watch the project in action!*
 
